@@ -1,0 +1,7 @@
+doc
+grumpy
+happy
+sleepy
+bashful
+sneezy
+dopey
